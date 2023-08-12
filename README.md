@@ -1,1 +1,1 @@
-# integrando-chatgpt-node-react
+Atividade de desafio do projeto da Formação ChatGPT for Devs onde foi criado uma aplicação completa utilizando o recurso oficial da OpenAI, a inteligência por trás do chatGPT e criada um front-end clone da ferramenta mais popular do mercado para integrar com um back-end funcional.
